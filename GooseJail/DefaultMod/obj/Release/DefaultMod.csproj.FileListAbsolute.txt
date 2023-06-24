@@ -1,0 +1,25 @@
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\DefaultMod\bin\Release\DefaultMod.dll
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\DefaultMod\bin\Release\DefaultMod.pdb
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\DefaultMod\bin\Release\GooseModdingAPI.dll
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\DefaultMod\bin\Release\GooseModdingAPI.pdb
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\DefaultMod\obj\Release\DefaultMod.csprojResolveAssemblyReference.cache
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\DefaultMod\obj\Release\DefaultMod.dll
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\DefaultMod\obj\Release\DefaultMod.pdb
+C:\Users\mlaro\Downloads\DesktopGoose v0.3\FOR MOD-MAKERS\goosejail\DefaultMod\bin\Release\DefaultMod.dll
+C:\Users\mlaro\Downloads\DesktopGoose v0.3\FOR MOD-MAKERS\goosejail\DefaultMod\bin\Release\DefaultMod.pdb
+C:\Users\mlaro\Downloads\DesktopGoose v0.3\FOR MOD-MAKERS\goosejail\DefaultMod\bin\Release\GooseModdingAPI.dll
+C:\Users\mlaro\Downloads\DesktopGoose v0.3\FOR MOD-MAKERS\goosejail\DefaultMod\bin\Release\GooseModdingAPI.pdb
+C:\Users\mlaro\Downloads\DesktopGoose v0.3\FOR MOD-MAKERS\goosejail\DefaultMod\obj\Release\DefaultMod.csproj.AssemblyReference.cache
+C:\Users\mlaro\Downloads\DesktopGoose v0.3\FOR MOD-MAKERS\goosejail\DefaultMod\obj\Release\DefaultMod.csproj.CoreCompileInputs.cache
+C:\Users\mlaro\Downloads\DesktopGoose v0.3\FOR MOD-MAKERS\goosejail\DefaultMod\obj\Release\DefaultMod.csproj.CopyComplete
+C:\Users\mlaro\Downloads\DesktopGoose v0.3\FOR MOD-MAKERS\goosejail\DefaultMod\obj\Release\DefaultMod.dll
+C:\Users\mlaro\Downloads\DesktopGoose v0.3\FOR MOD-MAKERS\goosejail\DefaultMod\obj\Release\DefaultMod.pdb
+C:\Users\Evan\Downloads\GooseJail\DefaultMod\bin\Release\DefaultMod.dll
+C:\Users\Evan\Downloads\GooseJail\DefaultMod\bin\Release\DefaultMod.pdb
+C:\Users\Evan\Downloads\GooseJail\DefaultMod\bin\Release\GooseModdingAPI.dll
+C:\Users\Evan\Downloads\GooseJail\DefaultMod\bin\Release\GooseModdingAPI.pdb
+C:\Users\Evan\Downloads\GooseJail\DefaultMod\obj\Release\DefaultMod.csproj.AssemblyReference.cache
+C:\Users\Evan\Downloads\GooseJail\DefaultMod\obj\Release\DefaultMod.csproj.CoreCompileInputs.cache
+C:\Users\Evan\Downloads\GooseJail\DefaultMod\obj\Release\DefaultMod.csproj.CopyComplete
+C:\Users\Evan\Downloads\GooseJail\DefaultMod\obj\Release\DefaultMod.dll
+C:\Users\Evan\Downloads\GooseJail\DefaultMod\obj\Release\DefaultMod.pdb
